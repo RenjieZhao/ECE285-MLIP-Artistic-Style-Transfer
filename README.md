@@ -16,7 +16,7 @@ Requirements
 The cyclegan demo needs to be run in the same directory as the models and images folder from below:
 https://drive.google.com/open?id=16LXb9OJTyKXaqRBhCc9N31m8BJiIdLNC
 
-These two images are used for neuralstyle_preprocess:
+These two images are used for neuralstyle_preprocess and neuralstyle that are not from hosted dataset:
 https://drive.google.com/open?id=1RMxAh4g-IR51xWz9Dngg79l1LlUtUJeg
 
 If you would like to run the training code as is you need our landscape dataset at 
