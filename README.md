@@ -37,3 +37,4 @@ neuralstyle.ipynb - Neural Style Transfer that can be run on DSMLP
 
 neuralstyle_preprocess.ipynb - Neural Style transfer that was run on google colab. Normalized input and equations written out.
 
+network.py - defines network for Cyclegan, needed for related files like demo and training
