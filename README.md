@@ -13,8 +13,11 @@ This repository is for the class project. The project contains two part, one is 
 
 Requirements
 ============
-The demo needs the models and imaages to load:
+The cyclegan demo needs the models and images to load:
 https://drive.google.com/open?id=16LXb9OJTyKXaqRBhCc9N31m8BJiIdLNC
+
+These two images are used for neuralstyle_preprocess:
+https://drive.google.com/open?id=1RMxAh4g-IR51xWz9Dngg79l1LlUtUJeg
 
 If you would like to run the training code as is you need our landscape dataset at 
 https://drive.google.com/open?id=1f-JyOhuPhWYHfM96IDTKJgkbq5QzWRbZ
