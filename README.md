@@ -21,4 +21,6 @@ Code organization
 cyclegandemo.ipynb -- Run a demo of our code
 training_base_model.ipynb -- Run the training of the Monet base model for CycleGANs
 test_models.ipynb -- Notebook used to view results on random images on the models. 
+neuralstyle.ipynb - Neural Style Transfer that can be run on DSMLP
+neuralstyle_preprocess.ipynb - Neural Style transfer that was run on google colab. Normalized input and equations written out.
 
