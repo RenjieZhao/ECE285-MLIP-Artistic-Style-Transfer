@@ -7,10 +7,14 @@ Members: Renjie Zhao, Jared Pham, Joseph Walker
 Description
 ===========
 This is project FOO developed by team BAR composed of John Doe, ...
+
+
 Requirements
 ============
 Install package 'imageio' as follow:
 $ pip install --user imageio
+
+
 Code organization
 =================
 demo.ipynb -- Run a demo of our code (reproduces Figure 3 of our report)
