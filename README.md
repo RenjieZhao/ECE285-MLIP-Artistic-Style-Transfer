@@ -1,12 +1,14 @@
 # ECE285-MLIP-Artistic-Style-Transfer
 2019 spring ECE285 project B Style Transfer, Gatys and CycleGAN
+
 Group: GAN Styles.
+
 Members: Renjie Zhao, Jared Pham, Joseph Walker
 
 
 Description
 ===========
-
+This repo for the class project. It contains two part, one is the Gatys' style transfer model and the other is the CycleGAN based style transfer model.
 
 
 Requirements
